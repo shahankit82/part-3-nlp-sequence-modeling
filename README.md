@@ -65,25 +65,3 @@ This project explores text classification using both traditional NLP methods and
 * Text must be converted into vectors
 * TF-IDF captures importance
 * LSTM captures sequence context
-
----
-
-## 🚀 How to Run
-
-```bash
-pip install -r requirements.txt
-jupyter notebook notebook.ipynb
-```
-
----
-
-## 📁 Structure
-
-part-3-nlp-sequence-modeling/
-│
-├── README.md
-├── notebook.ipynb
-├── requirements.txt
-└── results/
-├── model_evaluation.csv
-└── sample_predictions.txt
